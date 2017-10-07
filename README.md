@@ -5,11 +5,11 @@ __My Remarks:__
 
 1. This file is only the project overview, my code primarily implemented in [CV_project.ipynb](https://github.com/Amichai-a/AIND-Term2-CV-FacialKeypoints/blob/master/CV_project.ipynb) and some functions implemented in [utils.py](https://github.com/Amichai-a/AIND-Term2-CV-FacialKeypoints/blob/master/utils.py)
 
-2. On this project I Used OpenCV to perform pre-processing of the dataset (De-noise, edge detection…)
+2. On this project I used OpenCV to perform pre-processing of the dataset (De-noise, edge detection…)
  
-3. I Used CNN to perform facial keypoint detection, you can see my implementation with details explanations in [CV_project.ipynb](https://github.com/Amichai-a/AIND-Term2-CV-FacialKeypoints/blob/master/CV_project.ipynb)
+3. I used CNN to perform facial keypoint detection, you can see my implementation with details explanations in [CV_project.ipynb](https://github.com/Amichai-a/AIND-Term2-CV-FacialKeypoints/blob/master/CV_project.ipynb)
 
-4. I Was able to achieve validation loss of 0.00096 and validation accuracy of 0.83
+4. I was able to achieve validation loss of 0.00096 and validation accuracy of 0.83
 
 --------
 # AIND Term II, Computer Vision Capstone Project 
