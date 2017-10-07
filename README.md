@@ -1,7 +1,7 @@
 [//]: # (Image References)
 
 [image1]: ./images/obamas_with_keypoints.png "Facial Keypoint Detection"
-
+__Important Note:__ This file is only the project overview, my code primarily implemented in [CV_project.ipynb](https://github.com/Amichai-a/AIND-Term2-CV-FacialKeypoints/blob/master/CV_project.ipynb) and some functions implemented in [utils.py](https://github.com/Amichai-a/AIND-Term2-CV-FacialKeypoints/blob/master/utils.py)
 # AIND Term II, Computer Vision Capstone Project 
 # Facial Keypoint Detection and Real-time Filtering
 
